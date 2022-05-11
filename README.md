@@ -1,7 +1,7 @@
 # BetWorm
 BetWorm is a Petty Worm that run under Linux Environment to check possible attacks on end point security from Attacker point of view 
 
-In begging i want to mention that BetWrom project is collection of online scripts that has been modified by me + my own script being added, so i want to  
+In the begging i want to mention that BetWrom project is collection of online scripts that has been modified by me + my own script being added, so i want to  
 Thank (Mike Czumak) 
 
 BetWorm is a petty Worm that you install it on your infrastructure to check end point security from attacker point of view 
